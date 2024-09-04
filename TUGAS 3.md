@@ -1,0 +1,151 @@
+# 50 Command Line beserta penjelasannya
+---
+ls
+Menampilkan daftar file dan folder dalam direktori saat ini.
+
+cd [direktori]
+Berpindah ke direktori tertentu.
+
+pwd
+Menampilkan path lengkap dari direktori saat ini.
+
+mkdir [nama_folder]
+Membuat folder baru dengan nama tertentu.
+
+rmdir [nama_folder]
+Menghapus folder kosong.
+
+rm [nama_file]
+Menghapus file tertentu.
+
+rm -r [nama_folder]
+Menghapus folder beserta isinya.
+
+cp [sumber] [tujuan]
+Menyalin file dari lokasi sumber ke tujuan.
+
+mv [sumber] [tujuan]
+Memindahkan atau mengganti nama file atau folder.
+
+touch [nama_file]
+Membuat file kosong baru.
+
+cat [nama_file]
+Menampilkan isi file ke terminal.
+
+nano [nama_file]
+Membuka editor teks nano untuk mengedit file.
+
+vim [nama_file]
+Membuka editor teks vim untuk mengedit file.
+
+head [nama_file]
+Menampilkan 10 baris pertama dari file.
+
+tail [nama_file]
+Menampilkan 10 baris terakhir dari file.
+
+grep [teks] [nama_file]
+Mencari teks tertentu dalam file.
+
+find [direktori] -name [nama_file]
+Mencari file berdasarkan nama dalam direktori.
+
+chmod [izin] [nama_file]
+Mengubah izin akses file atau folder.
+
+chown [user]:[group] [nama_file]
+Mengubah kepemilikan file atau folder.
+
+df -h
+Menampilkan penggunaan disk dalam format yang mudah dibaca.
+
+du -sh [direktori]
+Menampilkan ukuran direktori atau file.
+
+ps aux
+Menampilkan semua proses yang berjalan.
+
+kill [PID]
+Menghentikan proses berdasarkan PID (Process ID).
+
+top
+Menampilkan proses yang menggunakan sumber daya paling banyak.
+
+htop
+Versi interaktif dari top dengan tampilan lebih baik (jika terpasang).
+
+history
+Menampilkan daftar perintah yang telah digunakan sebelumnya.
+
+clear
+Membersihkan layar terminal.
+
+echo [teks]
+Menampilkan teks ke layar.
+
+man [perintah]
+Menampilkan manual atau panduan penggunaan untuk perintah tertentu.
+
+ssh [user]@[host]
+Mengakses server atau komputer lain melalui SSH.
+
+scp [sumber] [user]@[host]:[tujuan]
+Menyalin file ke komputer lain melalui SSH.
+
+wget [URL]
+Mengunduh file dari internet menggunakan URL.
+
+curl [URL]
+Mengambil atau mengirim data ke/ dari URL.
+
+tar -cvf [arsip.tar] [file/direktori]
+Membuat arsip tar dari file atau direktori.
+
+tar -xvf [arsip.tar]
+Mengekstrak arsip tar.
+
+zip [arsip.zip] [file/direktori]
+Membuat arsip zip dari file atau direktori.
+
+unzip [arsip.zip]
+Mengekstrak arsip zip.
+
+sudo [perintah]
+Menjalankan perintah sebagai administrator atau root.
+
+apt-get update
+Memperbarui daftar paket pada sistem berbasis Debian.
+
+apt-get upgrade
+Memperbarui semua paket yang diinstal ke versi terbaru.
+
+apt-get install [nama_paket]
+Menginstal paket atau program baru.
+
+ping [alamat_ip/domain]
+Menguji koneksi jaringan ke IP atau domain tertentu.
+
+ifconfig
+Menampilkan konfigurasi jaringan.
+
+netstat -tuln
+Menampilkan semua port jaringan yang sedang aktif.
+
+iptables -L
+Menampilkan aturan firewall yang sedang diterapkan.
+
+hostname
+Menampilkan atau mengatur nama host komputer.
+
+uname -a
+Menampilkan informasi detail tentang sistem operasi.
+
+whoami
+Menampilkan nama user yang sedang login.
+
+date
+Menampilkan atau mengatur tanggal dan waktu sistem.
+
+reboot
+Merestart sistem operasi.

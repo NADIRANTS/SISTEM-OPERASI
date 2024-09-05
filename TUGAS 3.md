@@ -16,11 +16,12 @@ Menampilkan path lengkap dari direktori saat ini.
 
 ---
 4. mkdir [nama_folder]
-    ![Screenshot (221)](
-
+    ![Screenshot (221)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.58.29.jpeg)
 Membuat folder baru dengan nama tertentu.
 
-rmdir [nama_folder]
+---
+5. rmdir [nama_folder]
+   ![Screenshot (222)]
 Menghapus folder kosong.
 
 rm [nama_file]

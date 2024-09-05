@@ -85,7 +85,8 @@ Menampilkan 10 baris terakhir dari file.
 chmod [izin] [nama_file]
 Mengubah izin akses file atau folder.
 
-chown [user]:[group] [nama_file]
+18. chown [user]:[group] [nama_file]
+     ![Screenshot (235)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.30.40%20(1).jpeg)
 Mengubah kepemilikan file atau folder.
 
 df -h

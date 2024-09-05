@@ -195,22 +195,32 @@ Menjalankan perintah sebagai administrator atau root.
 
 ---
 40. apt-get upgrade
-     ![Screenshot (257](
+     ![Screenshot (257](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.02.24.jpeg)
 Memperbarui semua paket yang diinstal ke versi terbaru.
 
-apt-get install [nama_paket]
+---
+41. apt-get install [nama_paket]
+    ![Screenshot (258]
 Menginstal paket atau program baru.
 
-ping [alamat_ip/domain]
+---
+42. ping [alamat_ip/domain]
+    ![Screenshot (259]
 Menguji koneksi jaringan ke IP atau domain tertentu.
 
-ifconfig
+---
+43. ifconfig
+    ![Screenshot (260]
 Menampilkan konfigurasi jaringan.
 
-netstat -tuln
+---
+44. netstat -tuln
+    ![Screenshot (261]
 Menampilkan semua port jaringan yang sedang aktif.
 
-iptables -L
+---
+45. iptables -L
+    ![Screenshot (262]
 Menampilkan aturan firewall yang sedang diterapkan.
 
 hostname

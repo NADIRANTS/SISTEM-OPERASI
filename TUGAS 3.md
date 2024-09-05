@@ -246,5 +246,5 @@ Menampilkan informasi detail tentang sistem operasi.
 
 ---
 50. hostname
-    ![Screenshot (267](
+    ![Screenshot (267](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.31.06.jpeg)
 Menampilkan atau mengatur nama host komputer.

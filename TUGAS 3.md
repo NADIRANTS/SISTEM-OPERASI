@@ -135,10 +135,12 @@ Membersihkan layar terminal.
 
 ---
 28. echo [teks]
-    ![Screenshot (245](
+    ![Screenshot (245](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.40.18.jpeg)
 Menampilkan teks ke layar.
 
-man [perintah]
+---
+29. man [perintah]
+    ![Screenshot (246](
 Menampilkan manual atau panduan penggunaan untuk perintah tertentu.
 
 ssh [user]@[host]

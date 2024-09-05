@@ -210,18 +210,18 @@ Menampilkan konfigurasi jaringan.
 
 ---
 43. ping [alamat_ip/domain]
-    ![Screenshot (260]((https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.08.jpeg))
+    ![Screenshot (260](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.08.jpeg)
 Menguji koneksi jaringan ke IP atau domain tertentu.
 
 ---
-44. netstat -tuln
-    ![Screenshot (261]
-Menampilkan semua port jaringan yang sedang aktif.
+44. iptables -L
+    ![Screenshot (261](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.09%20(1).jpeg)
+Menampilkan aturan firewall yang sedang diterapkan.
 
 ---
-45. iptables -L
+45. netstat -tuln
     ![Screenshot (262]
-Menampilkan aturan firewall yang sedang diterapkan.
+Menampilkan semua port jaringan yang sedang aktif.
 
 ---
 46. hostname

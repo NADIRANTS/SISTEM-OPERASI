@@ -190,7 +190,8 @@ Menjalankan perintah sebagai administrator atau root.
 
 ---
 39. apt-get update
-    ![Screenshot (256](Memperbarui daftar paket pada sistem berbasis Debian.
+    ![Screenshot (256](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.02.22.jpeg)
+    Memperbarui daftar paket pada sistem berbasis Debian.
 
 ---
 40. apt-get upgrade

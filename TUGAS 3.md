@@ -140,10 +140,12 @@ Menampilkan teks ke layar.
 
 ---
 29. man [perintah]
-    ![Screenshot (246](
+    ![Screenshot (246](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.40.20.jpeg)
 Menampilkan manual atau panduan penggunaan untuk perintah tertentu.
 
-ssh [user]@[host]
+---
+30. ssh [user]@[host]
+     ![Screenshot (247](
 Mengakses server atau komputer lain melalui SSH.
 
 scp [sumber] [user]@[host]:[tujuan]

@@ -110,7 +110,7 @@ Menampilkan ukuran direktori atau file.
 
 ---
 23. top
-    ![Screenshot (241](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.01.jpeg)
+    ![Screenshot (241](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.01%20(1).jpeg)
 Menampilkan proses yang menggunakan sumber daya paling banyak.
 
 ---

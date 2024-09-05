@@ -24,12 +24,16 @@ Menampilkan path lengkap dari direktori saat ini.
    ![Screenshot (222)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.59.13.jpeg)
 Menghapus folder kosong.
 
-rm [nama_file]
-Menghapus file tertentu.
-
-rm -r [nama_folder]
+6. rm -r [nama_folder]
+   ![Screenshot (223)]
 Menghapus folder beserta isinya.
 
+---
+rm [nama_file]
+   ![Screenshot (224)]
+Menghapus file tertentu.
+
+---
 cp [sumber] [tujuan]
 Menyalin file dari lokasi sumber ke tujuan.
 

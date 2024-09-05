@@ -180,15 +180,21 @@ Membuat arsip zip dari file atau direktori.
 
 ---
 37. unzip [arsip.zip]
+     ![Screenshot (254](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.00.17.jpeg)
 Mengekstrak arsip zip.
 
-sudo [perintah]
+---
+38. sudo [perintah]
+     ![Screenshot (255](
 Menjalankan perintah sebagai administrator atau root.
 
-apt-get update
-Memperbarui daftar paket pada sistem berbasis Debian.
+---
+39. apt-get update
+    ![Screenshot (256](Memperbarui daftar paket pada sistem berbasis Debian.
 
-apt-get upgrade
+---
+40. apt-get upgrade
+     ![Screenshot (257](
 Memperbarui semua paket yang diinstal ke versi terbaru.
 
 apt-get install [nama_paket]

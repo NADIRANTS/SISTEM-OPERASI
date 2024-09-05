@@ -10,7 +10,7 @@ Menampilkan daftar file dan folder dalam direktori saat ini.
 Berpindah ke direktori tertentu.
 
 ---
-3. mkdir [nama foldel]
+3. mkdir [nama folder]
    ![Screenshot (220)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.58.29%20(1).jpeg)
 Membuat folder baru dengan nama tertentu.
 

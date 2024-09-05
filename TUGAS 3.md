@@ -205,7 +205,7 @@ Menginstal paket atau program baru.
 
 ---
 42. ping [alamat_ip/domain]
-    ![Screenshot (259]
+    ![Screenshot (259](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.08%20(1).jpeg)
 Menguji koneksi jaringan ke IP atau domain tertentu.
 
 ---
@@ -223,17 +223,27 @@ Menampilkan semua port jaringan yang sedang aktif.
     ![Screenshot (262]
 Menampilkan aturan firewall yang sedang diterapkan.
 
-hostname
+---
+46. hostname
+    ![Screenshot (263](
 Menampilkan atau mengatur nama host komputer.
 
-uname -a
+---
+47. uname -a
+    ![Screenshot (264](
 Menampilkan informasi detail tentang sistem operasi.
 
-whoami
+---
+48. whoami
+     ![Screenshot (265](
 Menampilkan nama user yang sedang login.
 
-date
+---
+49. date
+    ![Screenshot (266](
 Menampilkan atau mengatur tanggal dan waktu sistem.
 
-reboot
+---
+50. reboot
+    ![Screenshot (267](
 Merestart sistem operasi.

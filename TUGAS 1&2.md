@@ -14,7 +14,7 @@ Universitas Sriwijaya
 # TUGAS 1
 1. BUKA VIRTUAL BOX LALU PILIH NEW
    
-   ![Screenshot (205)](https://github.com/user-attachments/assets/30256a0c-de75-461d-b982-8740a6bba135)
+   ![Screenshot (205)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/364189511-30256a0c-de75-461d-b982-8740a6bba135.png)
   
 
 2. LALU KETIK SETTINGS

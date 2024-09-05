@@ -163,10 +163,13 @@ Mengunduh file dari internet menggunakan URL.
     ![Screenshot (250](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.53.36.jpeg)
 Mengambil atau mengirim data ke/ dari URL.
 
-tar -cvf [arsip.tar] [file/direktori]
+---
+34. tar -cvf [arsip.tar] [file/direktori]
+    ![Screenshot (251](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.53.52.jpeg)
 Membuat arsip tar dari file atau direktori.
 
-tar -xvf [arsip.tar]
+---
+35. tar -xvf [arsip.tar]
 Mengekstrak arsip tar.
 
 zip [arsip.zip] [file/direktori]

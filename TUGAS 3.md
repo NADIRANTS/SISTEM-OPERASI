@@ -1,6 +1,6 @@
 # 50 Command Line beserta penjelasannya
 ---
-ls
+1. ls
 Menampilkan daftar file dan folder dalam direktori saat ini.
 
 cd [direktori]

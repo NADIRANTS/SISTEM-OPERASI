@@ -200,7 +200,7 @@ Memperbarui semua paket yang diinstal ke versi terbaru.
 
 ---
 41. apt-get install [nama_paket]
-    ![Screenshot (258]
+    ![Screenshot (258](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.05.jpeg)
 Menginstal paket atau program baru.
 
 ---

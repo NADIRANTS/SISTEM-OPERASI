@@ -123,10 +123,14 @@ Menghentikan proses berdasarkan PID (Process ID).
     ![Screenshot (242](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.02.jpeg)
 Versi interaktif dari top dengan tampilan lebih baik (jika terpasang).
 
-history
+---
+26. history
+    ![Screenshot (243](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.40.11.jpeg)
 Menampilkan daftar perintah yang telah digunakan sebelumnya.
 
-clear
+---
+27. clear
+    ![Screenshot (244](
 Membersihkan layar terminal.
 
 echo [teks]

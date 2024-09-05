@@ -109,12 +109,15 @@ Menampilkan semua proses yang berjalan.
 Menampilkan ukuran direktori atau file.
 
 ---
-23. kill [PID]
-     ![Screenshot (240](
+23. top
+    ![Screenshot (241](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.01.jpeg)
+Menampilkan proses yang menggunakan sumber daya paling banyak.
+
+---
+24. kill [PID]
+    ![Screenshot (241](
 Menghentikan proses berdasarkan PID (Process ID).
 
-top
-Menampilkan proses yang menggunakan sumber daya paling banyak.
 
 htop
 Versi interaktif dari top dengan tampilan lebih baik (jika terpasang).

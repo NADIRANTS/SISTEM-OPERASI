@@ -170,9 +170,11 @@ Membuat arsip tar dari file atau direktori.
 
 ---
 35. tar -xvf [arsip.tar]
+     ![Screenshot (252](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.53.53.jpeg)
 Mengekstrak arsip tar.
 
-zip [arsip.zip] [file/direktori]
+---
+36. zip [arsip.zip] [file/direktori]
 Membuat arsip zip dari file atau direktori.
 
 unzip [arsip.zip]

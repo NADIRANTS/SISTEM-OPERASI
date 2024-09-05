@@ -231,20 +231,20 @@ Menampilkan nama user yang sedang login.
 
 ---
 47. date
-    ![Screenshot (265](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.29.48.jpeg)
+    ![Screenshot (264](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.29.48.jpeg)
 Menampilkan atau mengatur tanggal dan waktu sistem.
 
 ---
 48. reboot
-    ![Screenshot (267](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.30.54%20(1).jpeg)
+    ![Screenshot (265](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.30.54%20(1).jpeg)
 Merestart sistem operasi.
 
 ---
 49. uname -a
-    ![Screenshot (264](
+    ![Screenshot (266](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.30.54.jpeg)
 Menampilkan informasi detail tentang sistem operasi.
 
 ---
 50. hostname
-    ![Screenshot (263](
+    ![Screenshot (267](
 Menampilkan atau mengatur nama host komputer.

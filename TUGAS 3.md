@@ -155,10 +155,12 @@ Menyalin file ke komputer lain melalui SSH.
 
 ---
 32. wget [URL]
-     ![Screenshot (248](
+     ![Screenshot (249](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.50.31.jpeg)
 Mengunduh file dari internet menggunakan URL.
 
-curl [URL]
+---
+33. curl [URL]
+    ![Screenshot (250](
 Mengambil atau mengirim data ke/ dari URL.
 
 tar -cvf [arsip.tar] [file/direktori]

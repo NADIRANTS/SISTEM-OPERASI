@@ -175,9 +175,11 @@ Mengekstrak arsip tar.
 
 ---
 36. zip [arsip.zip] [file/direktori]
+     ![Screenshot (253](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.00.13.jpeg)
 Membuat arsip zip dari file atau direktori.
 
-unzip [arsip.zip]
+---
+37. unzip [arsip.zip]
 Mengekstrak arsip zip.
 
 sudo [perintah]

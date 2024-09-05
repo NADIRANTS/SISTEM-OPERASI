@@ -79,6 +79,7 @@ Mencari teks tertentu dalam file.
     ![Screenshot (233)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(2).jpeg)
 Mencari file berdasarkan nama dalam direktori.
 
+---
 17. tail [nama_file]
     ![Screenshot (234)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59.jpeg)
 Menampilkan 10 baris terakhir dari file.
@@ -224,9 +225,9 @@ Menampilkan aturan firewall yang sedang diterapkan.
 Menampilkan semua port jaringan yang sedang aktif.
 
 ---
-46. hostname
-    ![Screenshot (263](
-Menampilkan atau mengatur nama host komputer.
+46. whoami
+     ![Screenshot (263](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.29.46.jpeg)
+Menampilkan nama user yang sedang login.
 
 ---
 47. uname -a
@@ -234,9 +235,7 @@ Menampilkan atau mengatur nama host komputer.
 Menampilkan informasi detail tentang sistem operasi.
 
 ---
-48. whoami
-     ![Screenshot (265](
-Menampilkan nama user yang sedang login.
+48. 
 
 ---
 49. date
@@ -244,6 +243,10 @@ Menampilkan nama user yang sedang login.
 Menampilkan atau mengatur tanggal dan waktu sistem.
 
 ---
-50. reboot
+50. hostname
+    ![Screenshot (263](
+Menampilkan atau mengatur nama host komputer.
+
+reboot
     ![Screenshot (267](
 Merestart sistem operasi.

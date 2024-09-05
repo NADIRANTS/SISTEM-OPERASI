@@ -11,10 +11,13 @@ Berpindah ke direktori tertentu.
 
 ---
 3. pwd
-   ![Screenshot (220)](
+   ![Screenshot (220)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.58.29%20(1).jpeg)
 Menampilkan path lengkap dari direktori saat ini.
 
-mkdir [nama_folder]
+---
+4. mkdir [nama_folder]
+    ![Screenshot (221)](
+
 Membuat folder baru dengan nama tertentu.
 
 rmdir [nama_folder]

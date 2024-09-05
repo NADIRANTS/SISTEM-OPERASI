@@ -59,6 +59,7 @@ Menampilkan isi file ke terminal.
      ![Screenshot (230)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29%20(1).jpeg)
 Membuka editor teks vim untuk mengedit file.
 
+---
 13. nano [nama_file]
      ![Screenshot (231)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29.jpeg)
 Membuka editor teks nano untuk mengedit file.
@@ -97,7 +98,7 @@ Mengubah izin akses file atau folder.
      ![Screenshot (237)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.30.41.jpeg)
 Menampilkan penggunaan disk dalam format yang mudah dibaca.
 
-du -sh [direktori]
+21. du -sh [direktori]
 Menampilkan ukuran direktori atau file.
 
 ps aux

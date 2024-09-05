@@ -51,14 +51,20 @@ Menyalin file dari lokasi sumber ke tujuan.
 
 ---
 11. cat [nama_file]
+    ![Screenshot (228)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.28.jpeg)
 Menampilkan isi file ke terminal.
 
-nano [nama_file]
+---
+12. nano [nama_file]
+     ![Screenshot (229)]
 Membuka editor teks nano untuk mengedit file.
 
-vim [nama_file]
+---
+13. vim [nama_file]
+     ![Screenshot (230)]
 Membuka editor teks vim untuk mengedit file.
 
+---
 head [nama_file]
 Menampilkan 10 baris pertama dari file.
 

@@ -130,10 +130,12 @@ Menampilkan daftar perintah yang telah digunakan sebelumnya.
 
 ---
 27. clear
-    ![Screenshot (244](
+    ![Screenshot (244](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.40.14.jpeg)
 Membersihkan layar terminal.
 
-echo [teks]
+---
+28. echo [teks]
+    ![Screenshot (245](
 Menampilkan teks ke layar.
 
 man [perintah]

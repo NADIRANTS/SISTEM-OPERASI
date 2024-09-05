@@ -235,11 +235,8 @@ Menampilkan nama user yang sedang login.
 Menampilkan informasi detail tentang sistem operasi.
 
 ---
-48. 
-
----
-49. date
-    ![Screenshot (266](
+48. date
+    ![Screenshot (265](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.29.48.jpeg)
 Menampilkan atau mengatur tanggal dan waktu sistem.
 
 ---

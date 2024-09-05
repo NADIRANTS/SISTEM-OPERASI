@@ -56,27 +56,27 @@ Menampilkan isi file ke terminal.
 
 ---
 12. vim [nama_file]
-     ![Screenshot (230)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29%20(1).jpeg)
+     ![Screenshot (229)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29%20(1).jpeg)
 Membuka editor teks vim untuk mengedit file.
 
 ---
 13. nano [nama_file]
-     ![Screenshot (231)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29.jpeg)
+     ![Screenshot (230)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29.jpeg)
 Membuka editor teks nano untuk mengedit file.
 
 ---
 14. head [nama_file]
-   ![Screenshot (232)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.58.jpeg)
+   ![Screenshot (231)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.58.jpeg)
 Menampilkan 10 baris pertama dari file.
 
 ---
 15. grep [teks] [nama_file]
-    ![Screenshot (233)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(1).jpeg)
+    ![Screenshot (232)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(1).jpeg)
 Mencari teks tertentu dalam file.
 
 ---
 16. find [direktori] -name [nama_file]
-    ![Screenshot (235)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(2).jpeg)
+    ![Screenshot (233)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(2).jpeg)
 Mencari file berdasarkan nama dalam direktori.
 
 17. tail [nama_file]
@@ -98,11 +98,15 @@ Mengubah izin akses file atau folder.
      ![Screenshot (237)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.30.41.jpeg)
 Menampilkan penggunaan disk dalam format yang mudah dibaca.
 
-21. du -sh [direktori]
-Menampilkan ukuran direktori atau file.
-
-ps aux
+---
+21. ps aux
+     ![Screenshot (238)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.00%20(1).jpeg)
 Menampilkan semua proses yang berjalan.
+
+---
+22. du -sh [direktori]
+    ![Screenshot (239)]
+Menampilkan ukuran direktori atau file.
 
 kill [PID]
 Menghentikan proses berdasarkan PID (Process ID).

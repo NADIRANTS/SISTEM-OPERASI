@@ -21,7 +21,7 @@ Membuat folder baru dengan nama tertentu.
 
 ---
 5. rmdir [nama_folder]
-   ![Screenshot (222)]
+   ![Screenshot (222)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.59.13.jpeg)
 Menghapus folder kosong.
 
 rm [nama_file]

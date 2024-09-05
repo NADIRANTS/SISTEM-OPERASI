@@ -105,10 +105,12 @@ Menampilkan semua proses yang berjalan.
 
 ---
 22. du -sh [direktori]
-    ![Screenshot (239)]
+    ![Screenshot (239)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.00.jpeg)
 Menampilkan ukuran direktori atau file.
 
-kill [PID]
+---
+23. kill [PID]
+     ![Screenshot (240](
 Menghentikan proses berdasarkan PID (Process ID).
 
 top

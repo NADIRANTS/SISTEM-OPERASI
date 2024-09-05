@@ -46,11 +46,11 @@ Membuat file kosong baru.
 
 ---
 10. cp [sumber] [tujuan]
-     ![Screenshot (227)](
-    
+     ![Screenshot (227)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.59.49.jpeg)
 Menyalin file dari lokasi sumber ke tujuan.
 
-cat [nama_file]
+---
+11. cat [nama_file]
 Menampilkan isi file ke terminal.
 
 nano [nama_file]

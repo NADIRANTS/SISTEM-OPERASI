@@ -150,9 +150,12 @@ Mengakses server atau komputer lain melalui SSH.
 
 ---
 31. scp [sumber] [user]@[host]:[tujuan]
+    ![Screenshot (248](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.50.28.jpeg)
 Menyalin file ke komputer lain melalui SSH.
 
-wget [URL]
+---
+32. wget [URL]
+     ![Screenshot (248](
 Mengunduh file dari internet menggunakan URL.
 
 curl [URL]

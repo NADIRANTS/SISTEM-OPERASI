@@ -94,6 +94,7 @@ Mengubah izin akses file atau folder.
 
 ---
 20. df -h
+     ![Screenshot (237)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.30.41.jpeg)
 Menampilkan penggunaan disk dalam format yang mudah dibaca.
 
 du -sh [direktori]

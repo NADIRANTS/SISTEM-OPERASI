@@ -230,20 +230,21 @@ Menampilkan semua port jaringan yang sedang aktif.
 Menampilkan nama user yang sedang login.
 
 ---
-47. uname -a
-    ![Screenshot (264](
-Menampilkan informasi detail tentang sistem operasi.
-
----
-48. date
+47. date
     ![Screenshot (265](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.29.48.jpeg)
 Menampilkan atau mengatur tanggal dan waktu sistem.
+
+---
+48. reboot
+    ![Screenshot (267](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.30.54%20(1).jpeg)
+Merestart sistem operasi.
+
+---
+49. uname -a
+    ![Screenshot (264](
+Menampilkan informasi detail tentang sistem operasi.
 
 ---
 50. hostname
     ![Screenshot (263](
 Menampilkan atau mengatur nama host komputer.
-
-reboot
-    ![Screenshot (267](
-Merestart sistem operasi.

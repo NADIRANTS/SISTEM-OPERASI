@@ -205,12 +205,12 @@ Menginstal paket atau program baru.
 
 ---
 42. ifconfig
-    ![Screenshot (259](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.08.jpeg)
+    ![Screenshot (259](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.08%20(1).jpeg)
 Menampilkan konfigurasi jaringan.
 
 ---
 43. ping [alamat_ip/domain]
-    ![Screenshot (260](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.08%20(1).jpeg)
+    ![Screenshot (260]((https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.08.jpeg))
 Menguji koneksi jaringan ke IP atau domain tertentu.
 
 ---

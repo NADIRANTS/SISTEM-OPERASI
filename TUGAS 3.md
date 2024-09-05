@@ -185,7 +185,7 @@ Mengekstrak arsip zip.
 
 ---
 38. sudo [perintah]
-     ![Screenshot (255](
+     ![Screenshot (255](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.00.57.jpeg)
 Menjalankan perintah sebagai administrator atau root.
 
 ---

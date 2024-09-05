@@ -59,17 +59,13 @@ Menampilkan isi file ke terminal.
      ![Screenshot (230)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29%20(1).jpeg)
 Membuka editor teks vim untuk mengedit file.
 
-nano [nama_file]
-     ![Screenshot (229)]
+13. nano [nama_file]
+     ![Screenshot (231)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29.jpeg)
 Membuka editor teks nano untuk mengedit file.
 
 ---
-13. vim [nama_file]
-     ![Screenshot (230)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29%20(1).jpeg)
-Membuka editor teks vim untuk mengedit file.
-
----
-head [nama_file]
+13.head [nama_file]
+   ![Screenshot (232)]
 Menampilkan 10 baris pertama dari file.
 
 tail [nama_file]

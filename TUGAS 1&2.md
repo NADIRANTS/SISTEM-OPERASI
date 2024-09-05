@@ -25,7 +25,7 @@ Universitas Sriwijaya
 3. LANGKAH SELANJUTNYA BASE MEMORY BUAT MENJADI 4906 DAN 
 PROCESSORS MENJADI 2 LALU NEXT
 
-   ![Screenshot (208)](https://github.com/user-attachments/assets/54c0a9cd-569b-4f56-8932-5eed69249031)
+   ![Screenshot (208)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/364189865-54c0a9cd-569b-4f56-8932-5eed69249031.png)
 
    
 4. KEMUDIAN BUAT DISK SIZE MENJADI 25,00 GB DAN TEKAN NEXT

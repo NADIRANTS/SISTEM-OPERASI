@@ -25,7 +25,7 @@ Menampilkan path lengkap dari direktori saat ini.
 Menghapus folder kosong.
 
 6. rm -r [nama_folder]
-   ![Screenshot (223)]
+   ![Screenshot (223)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.59.14%20(1).jpeg)
 Menghapus folder beserta isinya.
 
 ---

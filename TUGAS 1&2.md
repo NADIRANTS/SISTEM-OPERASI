@@ -19,7 +19,7 @@ Universitas Sriwijaya
 
 2. LALU KETIK SETTINGS
  
-   ![Screenshot (207)](https://github.com/user-attachments/assets/d231600d-8e2e-403f-acfa-a01789ee3489)
+   ![Screenshot (207)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/364189653-d231600d-8e2e-403f-acfa-a01789ee3489.png)
 
 
 3. LANGKAH SELANJUTNYA BASE MEMORY BUAT MENJADI 4906 DAN 

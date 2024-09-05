@@ -74,7 +74,7 @@ Menampilkan 10 baris pertama dari file.
 Mencari teks tertentu dalam file.
 
 ---
-16. find [direktori] -name [nama_file]]
+16. find [direktori] -name [nama_file]
     ![Screenshot (235)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(2).jpeg)
 Mencari file berdasarkan nama dalam direktori.
 

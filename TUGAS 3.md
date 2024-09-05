@@ -6,10 +6,12 @@ Menampilkan daftar file dan folder dalam direktori saat ini.
 
 ---
 2. cd [direktori]
-   ![Screenshot (219)]
+   ![Screenshot (219)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.58.28.jpeg)
 Berpindah ke direktori tertentu.
 
-pwd
+---
+3. pwd
+   ![Screenshot (220)](
 Menampilkan path lengkap dari direktori saat ini.
 
 mkdir [nama_folder]

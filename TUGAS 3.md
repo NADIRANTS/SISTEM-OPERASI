@@ -35,11 +35,12 @@ Menghapus folder beserta isinya.
 Menghapus file tertentu.
 
 ---
-8. cp [sumber] [tujuan]
-Menyalin file dari lokasi sumber ke tujuan.
-
-mv [sumber] [tujuan]
+8. mv [sumber] [tujuan]
+   ![Screenshot (225)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.59.49%20(1).jpeg)
 Memindahkan atau mengganti nama file atau folder.
+
+9. cp [sumber] [tujuan]
+Menyalin file dari lokasi sumber ke tujuan.
 
 touch [nama_file]
 Membuat file kosong baru.

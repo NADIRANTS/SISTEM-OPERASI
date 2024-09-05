@@ -110,7 +110,7 @@ Menampilkan ukuran direktori atau file.
 
 ---
 23. top
-    ![Screenshot (241](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.01%20(1).jpeg)
+    ![Screenshot (240](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.01%20(1).jpeg)
 Menampilkan proses yang menggunakan sumber daya paling banyak.
 
 ---
@@ -118,8 +118,9 @@ Menampilkan proses yang menggunakan sumber daya paling banyak.
     ![Screenshot (241](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.01.jpeg)
 Menghentikan proses berdasarkan PID (Process ID).
 
-
-htop
+---
+25. htop
+    ![Screenshot (242](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.02.jpeg)
 Versi interaktif dari top dengan tampilan lebih baik (jika terpasang).
 
 history

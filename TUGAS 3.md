@@ -64,21 +64,21 @@ Membuka editor teks vim untuk mengedit file.
 Membuka editor teks nano untuk mengedit file.
 
 ---
-13. head [nama_file]
+14. head [nama_file]
    ![Screenshot (232)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.58.jpeg)
 Menampilkan 10 baris pertama dari file.
 
 ---
-14. grep [teks] [nama_file]
-    ![Screenshot (232)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(1).jpeg)
+15. grep [teks] [nama_file]
+    ![Screenshot (233)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(1).jpeg)
 Mencari teks tertentu dalam file.
 
 ---
-15. tail [nama_file]
-    ![Screenshot (233)](
+16. tail [nama_file]
+    ![Screenshot (234)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(2).jpeg)
 Menampilkan 10 baris terakhir dari file.
 
-find [direktori] -name [nama_file]
+17. find [direktori] -name [nama_file]
 Mencari file berdasarkan nama dalam direktori.
 
 chmod [izin] [nama_file]

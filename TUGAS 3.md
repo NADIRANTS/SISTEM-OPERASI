@@ -220,7 +220,7 @@ Menampilkan aturan firewall yang sedang diterapkan.
 
 ---
 45. netstat -tuln
-    ![Screenshot (262]
+    ![Screenshot (262](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2011.11.09.jpeg)
 Menampilkan semua port jaringan yang sedang aktif.
 
 ---

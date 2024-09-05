@@ -145,10 +145,11 @@ Menampilkan manual atau panduan penggunaan untuk perintah tertentu.
 
 ---
 30. ssh [user]@[host]
-     ![Screenshot (247](
+     ![Screenshot (247](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.40.21.jpeg)
 Mengakses server atau komputer lain melalui SSH.
 
-scp [sumber] [user]@[host]:[tujuan]
+---
+31. scp [sumber] [user]@[host]:[tujuan]
 Menyalin file ke komputer lain melalui SSH.
 
 wget [URL]

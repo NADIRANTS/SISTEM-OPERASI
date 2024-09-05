@@ -10,14 +10,14 @@ Menampilkan daftar file dan folder dalam direktori saat ini.
 Berpindah ke direktori tertentu.
 
 ---
-3. pwd
+3. mkdir [nama foldel]
    ![Screenshot (220)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.58.29%20(1).jpeg)
-Menampilkan path lengkap dari direktori saat ini.
+Membuat folder baru dengan nama tertentu.
 
 ---
-4. mkdir [nama_folder]
+4. pwd
     ![Screenshot (221)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.58.29.jpeg)
-Membuat folder baru dengan nama tertentu.
+Menampilkan path lengkap dari direktori saat ini.
 
 ---
 5. rmdir [nama_folder]

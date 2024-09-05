@@ -55,13 +55,17 @@ Menyalin file dari lokasi sumber ke tujuan.
 Menampilkan isi file ke terminal.
 
 ---
-12. nano [nama_file]
+12. vim [nama_file]
+     ![Screenshot (230)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29%20(1).jpeg)
+Membuka editor teks vim untuk mengedit file.
+
+nano [nama_file]
      ![Screenshot (229)]
 Membuka editor teks nano untuk mengedit file.
 
 ---
 13. vim [nama_file]
-     ![Screenshot (230)]
+     ![Screenshot (230)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.29%20(1).jpeg)
 Membuka editor teks vim untuk mengedit file.
 
 ---

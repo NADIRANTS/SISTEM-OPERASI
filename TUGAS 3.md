@@ -64,11 +64,12 @@ Membuka editor teks vim untuk mengedit file.
 Membuka editor teks nano untuk mengedit file.
 
 ---
-13.head [nama_file]
-   ![Screenshot (232)]
+13. head [nama_file]
+   ![Screenshot (232)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.58.jpeg)
 Menampilkan 10 baris pertama dari file.
 
-tail [nama_file]
+14. tail [nama_file]
+    ![Screenshot (232)](
 Menampilkan 10 baris terakhir dari file.
 
 grep [teks] [nama_file]

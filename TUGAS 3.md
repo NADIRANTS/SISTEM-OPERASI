@@ -160,7 +160,7 @@ Mengunduh file dari internet menggunakan URL.
 
 ---
 33. curl [URL]
-    ![Screenshot (250](
+    ![Screenshot (250](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.53.36.jpeg)
 Mengambil atau mengirim data ke/ dari URL.
 
 tar -cvf [arsip.tar] [file/direktori]

@@ -115,7 +115,7 @@ Menampilkan proses yang menggunakan sumber daya paling banyak.
 
 ---
 24. kill [PID]
-    ![Screenshot (241](
+    ![Screenshot (241](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2010.28.01.jpeg)
 Menghentikan proses berdasarkan PID (Process ID).
 
 

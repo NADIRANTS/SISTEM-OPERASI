@@ -68,12 +68,15 @@ Membuka editor teks nano untuk mengedit file.
    ![Screenshot (232)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.58.jpeg)
 Menampilkan 10 baris pertama dari file.
 
-14. tail [nama_file]
-    ![Screenshot (232)](
-Menampilkan 10 baris terakhir dari file.
-
-grep [teks] [nama_file]
+---
+14. grep [teks] [nama_file]
+    ![Screenshot (232)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2009.29.59%20(1).jpeg)
 Mencari teks tertentu dalam file.
+
+---
+15. tail [nama_file]
+    ![Screenshot (233)](
+Menampilkan 10 baris terakhir dari file.
 
 find [direktori] -name [nama_file]
 Mencari file berdasarkan nama dalam direktori.

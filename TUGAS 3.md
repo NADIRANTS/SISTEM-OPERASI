@@ -1,10 +1,12 @@
 # 50 Command Line beserta penjelasannya
 ---
 1. ls
-   [Screenshot (218)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.57.34.jpeg)
+   ![Screenshot (218)](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File/WhatsApp%20Image%202024-09-05%20at%2008.57.34.jpeg)
 Menampilkan daftar file dan folder dalam direktori saat ini.
 
-cd [direktori]
+---
+2. cd [direktori]
+   ![Screenshot (219)]
 Berpindah ke direktori tertentu.
 
 pwd

@@ -35,7 +35,7 @@ Universitas Sriwijaya
 7. Hapuslah direktori maret
     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_37_07.png)
 
-8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari. Disini, kita tidak dapat membuat direktori baru "haha" pada sub direktori februari, karena telah mengubah kepemilikan sehingga hanya bisa melakukan read saja
+8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari. Disini, kita tidak dapat membuat direktori baru "haha" pada sub direktori februari, karena telah mengubah kepemilikan sehingga hanya bisa melakukan read saja. Agar kita dapat membuat direktori baru "haha" maka kita harus merubah agar bisa melakukan read, write, dan execute
     ![Screenshot]()
 
 16. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan

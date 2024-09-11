@@ -30,7 +30,7 @@ Universitas Sriwijaya
    ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_31_35.png)
 
 6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat melakukan write, read dan execute
-    ![Screenshot]()
+    ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_36_14.png)
 
 12. Hapuslah direktori maret
     ![Screenshot]()

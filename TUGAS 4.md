@@ -24,7 +24,7 @@ Universitas Sriwijaya
    ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_18_13.png)
 
 4. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others dapat melakukan write
-   ![Screenshot]()
+   ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_30_23.png)
    
 8. Ubahlah ijin akses file dataku pada sub direktori pebruari sehingga user dapat
 melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read

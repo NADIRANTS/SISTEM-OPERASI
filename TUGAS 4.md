@@ -63,3 +63,5 @@ nilai default-nya ?
 
 10.Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah
 list perhatikan berapa link yang terjadi ?
+   ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_53_24.png)
+   

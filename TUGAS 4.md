@@ -17,7 +17,7 @@ Universitas Sriwijaya
    ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_13_48.png)
 
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan5
-   ![Screenshot]()
+   ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_18_13.png)
 
 3. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari dan copy-kan file tersebut ke sub direktori 
    februari dan maret

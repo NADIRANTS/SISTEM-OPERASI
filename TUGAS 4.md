@@ -13,4 +13,5 @@ Universitas Sriwijaya
 
 
 ## Hasil Tugas
-1. Pertama, perlu dilihat peralatan I/O, character device, yang ada pada system komputer.
+1. Pertama, perlu dilihat peralatan I/O, character device, yang ada pada system komputer
+   ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_11_09_2024_23_29_20.png)

@@ -14,10 +14,10 @@ Universitas Sriwijaya
 
 ## Hasil Tugas
 1. Pertama, perlu dilihat peralatan I/O, character device, yang ada pada system komputer
-   ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_11_09_2024_23_29_20.png)
+   ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_13_48.png)
 
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan5
-    ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_11_09_2024_23_41_30.png)
+    ![Screenshot]()
 
 4. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari
 dan copy-kan file tersebut ke sub direktori februari dan maret

@@ -35,7 +35,7 @@ Universitas Sriwijaya
 
    ---
    
-5. Ubahlah ijin akses file dataku pada sub direktori pebruari sehingga user dapat melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read dan execute
+5. Ubahlah ijin akses file dataku pada sub direktori februari sehingga user dapat melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read dan execute
    ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_31_35.png)
 
    ---

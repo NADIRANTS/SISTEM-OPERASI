@@ -57,7 +57,7 @@ Universitas Sriwijaya
 
 ---
 
-9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan
+9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakah
 nilai default-nya ?
     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_49_29.png)
 

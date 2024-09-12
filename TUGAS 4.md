@@ -50,7 +50,7 @@ Universitas Sriwijaya
 
 ---
 
-8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari. Disini, kita tidak dapat membuat direktori baru "haha" pada sub direktori februari, karena telah mengubah kepemilikan sehingga hanya bisa melakukan read saja. 
+8. Ubah kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari. Disini, kita tidak dapat membuat direktori baru "haha" pada sub direktori februari, karena telah mengubah kepemilikan sehingga hanya bisa melakukan read saja. 
     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_44_06.png)
    Agar kita dapat membuat direktori baru "haha" maka kita harus merubah agar bisa melakukan read, write, dan execute
     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_48_22.png)
@@ -60,6 +60,8 @@ Universitas Sriwijaya
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakah
 nilai default-nya ?
     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20tugas%204/VirtualBox_NADIRA%20NATASYA_12_09_2024_00_49_29.png)
+
+---
 
 10.Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah
 list perhatikan berapa link yang terjadi ?

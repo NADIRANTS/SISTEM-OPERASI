@@ -18,8 +18,10 @@ Universitas Sriwijaya
 
     ---
 
-2. Lalu Lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.
-     ![Screenshot](
+2. Lalu lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.
+     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_24_31.png)
+
+3. Kemudian, urutkan file baru dengan cara membelokkan standard input.
      ![Screenshot](
      ![Screenshot](
      ![Screenshot](

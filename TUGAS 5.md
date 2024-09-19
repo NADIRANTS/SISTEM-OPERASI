@@ -20,7 +20,7 @@ Universitas Sriwijaya
    ---
 
 2. Lalu lihat daftar secara lengkap pada direktori /etc/passwd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya
-     ![Screenshot]()
+     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_06_51.png)
 
    ---
 

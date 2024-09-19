@@ -40,11 +40,17 @@ Universitas Sriwijaya
     ---
 
 6. Urutkan kalimat berikut :
+
    Jakarta
+
    Bandung
+
    Surabaya
+
    Padang
+
    Palembang
+
    Lampung
 
    Dengan menggunakan notasi here document (<@@@ ...@@@)
@@ -52,12 +58,12 @@ Universitas Sriwijaya
 
    ---
 
-7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru
+8. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_35_52.png)
 
    ---
 
-8. Gunakan perintah di bawah ini dan perhatikan hasilnya.
+9. Gunakan perintah di bawah ini dan perhatikan hasilnya.
    $ cat /etc/passwd | sort | pr –n | grep tty03
    $ find /etc –print | head
    $ head /etc/passwd | tail –5 | sort
@@ -65,7 +71,7 @@ Universitas Sriwijaya
 
    ---
 
-9. Gunakan perintah berikut dan perhatikan hasilnya:
+10. Gunakan perintah berikut dan perhatikan hasilnya:
 
    $ who | cat | cat | sort | pr | head | cat | tail
 

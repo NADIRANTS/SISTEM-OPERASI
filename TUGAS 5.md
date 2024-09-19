@@ -29,7 +29,7 @@ Universitas Sriwijaya
    ---
 
 4. Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut
-     ![Screenshot](
+     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_33_30.png)
 
    ---
 

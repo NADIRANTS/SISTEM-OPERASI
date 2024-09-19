@@ -14,7 +14,8 @@ Universitas Sriwijaya
 
 ## Hasil Tugas
 
-1. Pertama, lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru
+1. Pertama, Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru
+   ![Screenshot]()
 
    ---
 

@@ -14,32 +14,32 @@ Universitas Sriwijaya
 
 ## Hasil Tugas
 1. Pertama, lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru
-   ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_18_39.png)
+   ![Screenshot]()
 
     ---
 
 2. Lalu lihat daftar secara lengkap pada direktori /etc/passwd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya
-     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_24_31.png)
+     ![Screenshot]()
 
    ---
 
 3. Kemudian, urutkan file baru dengan cara membelokkan standard input
-     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_29_10.png)
+     ![Screenshot]()
 
    ---
 
 4. Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut
-     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_33_30.png)
+     ![Screenshot]()
 
    ---
 
  5. Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file rmdirerror.txt
-     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_37_47.png)
+     ![Screenshot]()
 
     ---
 
 6. Urutkan kalimat berikut : Jakarta Bandung Surabaya Padang Palembang Lampung Dengan menggunakan notasi here document (<@@@ ...@@@)
-     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_44_02.png)
+     ![Screenshot]()
 
    ---
 

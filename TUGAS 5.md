@@ -15,7 +15,7 @@ Universitas Sriwijaya
 ## Hasil Tugas
 
 1. Pertama, Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru
-   ![Screenshot]()
+   ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_07_35_20.png)
 
    ---
 

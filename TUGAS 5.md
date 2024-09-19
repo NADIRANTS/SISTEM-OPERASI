@@ -14,17 +14,17 @@ Universitas Sriwijaya
 
 ## Hasil Tugas
 
-1. Pertama, Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru
+1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru
    ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_07_35_20.png)
 
    ---
 
-2. Lalu lihat daftar secara lengkap pada direktori /etc/passwd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya
+2. Lalu lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_06_51.png)
 
    ---
 
-3. Kemudian, urutkan file baru dengan cara membelokkan standard input
+3. Urutkan file baru dengan cara membelokkan standard input
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_11_09.png)
 
    ---
@@ -39,7 +39,15 @@ Universitas Sriwijaya
 
     ---
 
-6. Urutkan kalimat berikut : Jakarta Bandung Surabaya Padang Palembang Lampung Dengan menggunakan notasi here document (<@@@ ...@@@)
+6. Urutkan kalimat berikut :
+   Jakarta
+   Bandung
+   Surabaya
+   Padang
+   Palembang
+   Lampung
+
+   Dengan menggunakan notasi here document (<@@@ ...@@@)
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_30_31.png)
 
    ---
@@ -49,14 +57,17 @@ Universitas Sriwijaya
 
    ---
 
-8. Gunakan perintah di bawah ini dan perhatikan hasilnya. $ cat /etc/passwd | sort | pr –n | grep tty03 $ find /etc –print | head $ head /etc/passwd | tail –5 | sort
+8. Gunakan perintah di bawah ini dan perhatikan hasilnya.
+   $ cat /etc/passwd | sort | pr –n | grep tty03
+   $ find /etc –print | head
+   $ head /etc/passwd | tail –5 | sort
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_44_34.png)
 
    ---
 
 9. Gunakan perintah berikut dan perhatikan hasilnya:
 
-   who | cat | cat | sort | pr | head | cat | tail
+   $ who | cat | cat | sort | pr | head | cat | tail
 
    Yaitu menampilkan pengguna yang sedang login (who), mengurutkan hasilnya, memformat output, menampilkan baris pertama dan terakhir dari hasil tersebut
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_49_54.png)

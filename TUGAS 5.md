@@ -40,7 +40,7 @@ Universitas Sriwijaya
     ---
 
 6. Urutkan kalimat berikut : Jakarta Bandung Surabaya Padang Palembang Lampung Dengan menggunakan notasi here document (<@@@ ...@@@)
-     ![Screenshot]()
+     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_30_31.png)
 
    ---
 

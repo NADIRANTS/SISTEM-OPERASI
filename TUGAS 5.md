@@ -34,7 +34,7 @@ Universitas Sriwijaya
    ---
 
  5. Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file rmdirerror.txt.  
-     ![Screenshot](
+     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_37_47.png)
 
     ---
 

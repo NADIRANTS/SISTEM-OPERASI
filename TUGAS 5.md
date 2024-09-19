@@ -50,7 +50,7 @@ Universitas Sriwijaya
    ---
 
 8. Gunakan perintah di bawah ini dan perhatikan hasilnya. $ cat /etc/passwd | sort | pr –n | grep tty03 $ find /etc –print | head $ head /etc/passwd | tail –5 | sort
-     ![Screenshot](
+     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_44_34.png)
 
    ---
 

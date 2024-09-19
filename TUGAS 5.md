@@ -56,7 +56,6 @@ Universitas Sriwijaya
 
 9. Gunakan perintah berikut dan perhatikan hasilnya:
 
-who | cat | cat | sort | pr | head | cat | tail
-
-Menampilkan pengguna yang sedang login (who), mengurutkan hasilnya, memformat output, menampilkan baris pertama dan terakhir dari hasil tersebut
-     ![Screenshot](
+   who | cat | cat | sort | pr | head | cat | tail
+   Yaitu menampilkan pengguna yang sedang login (who), mengurutkan hasilnya, memformat output, menampilkan baris pertama dan terakhir dari hasil tersebut
+     ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_49_54.png)

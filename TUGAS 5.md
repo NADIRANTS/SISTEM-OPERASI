@@ -63,15 +63,18 @@ Universitas Sriwijaya
 
    ---
 
-9. Gunakan perintah di bawah ini dan perhatikan hasilnya.
+9. Gunakan perintah di bawah ini dan perhatikan hasilnya
+
    $ cat /etc/passwd | sort | pr –n | grep tty03
+
    $ find /etc –print | head
+
    $ head /etc/passwd | tail –5 | sort
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_44_34.png)
 
    ---
 
-10. Gunakan perintah berikut dan perhatikan hasilnya:
+11. Gunakan perintah berikut dan perhatikan hasilnya:
 
    $ who | cat | cat | sort | pr | head | cat | tail
 

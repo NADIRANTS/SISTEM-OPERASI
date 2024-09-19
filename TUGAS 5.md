@@ -23,7 +23,7 @@ Universitas Sriwijaya
 
    ---
 
-3. Kemudian, urutkan file baru dengan cara membelokkan standard input.
+3. Kemudian, urutkan file baru dengan cara membelokkan standard input
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_29_10.png)
 
    ---
@@ -33,7 +33,7 @@ Universitas Sriwijaya
 
    ---
 
- 5. Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file rmdirerror.txt.  
+ 5. Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file rmdirerror.txt
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_18_09_2024_23_37_47.png)
 
     ---

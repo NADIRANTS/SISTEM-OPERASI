@@ -58,12 +58,12 @@ Universitas Sriwijaya
 
    ---
 
-8. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru
+7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_35_52.png)
 
    ---
 
-9. Gunakan perintah di bawah ini dan perhatikan hasilnya
+8. Gunakan perintah di bawah ini dan perhatikan hasilnya
 
    $ cat /etc/passwd | sort | pr –n | grep tty03
 
@@ -74,9 +74,9 @@ Universitas Sriwijaya
 
    ---
 
-11. Gunakan perintah berikut dan perhatikan hasilnya:
+9. Gunakan perintah berikut dan perhatikan hasilnya:
 
-   $ who | cat | cat | sort | pr | head | cat | tail
+    $ who | cat | cat | sort | pr | head | cat | tail
 
-   Yaitu menampilkan pengguna yang sedang login (who), mengurutkan hasilnya, memformat output, menampilkan baris pertama dan terakhir dari hasil tersebut
+    Yaitu menampilkan pengguna yang sedang login (who), mengurutkan hasilnya, memformat output, menampilkan baris pertama dan terakhir dari hasil tersebut
      ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%205/VirtualBox_NADIRA%20NATASYA_19_09_2024_08_49_54.png)

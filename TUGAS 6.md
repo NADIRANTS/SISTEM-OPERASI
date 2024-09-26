@@ -118,3 +118,6 @@ b. Jalankan script tersebut sebagai berikut :
 5.Jobs 
 a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, 
 setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_10_20_57.png)
+
+

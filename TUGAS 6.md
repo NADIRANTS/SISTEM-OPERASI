@@ -49,7 +49,20 @@ $ exit
 kemudian gunakan opsi – sebagai berikut : 
 $ su – mahasiswa 
 $ exit 
-Jelaskan perbedaan kedua utilitas tersebut. 
+Jelaskan perbedaan kedua utilitas tersebut.
+
+1. su mahasiswa:
+
+        Perintah ini menjalankan su untuk beralih ke user mahasiswa. Saat menggunakan perintah ini tanpa opsi -, lingkungan (environment) dari user saat ini tetap dipertahankan.
+        Artinya, hanya identitas pengguna yang berubah, tetapi variabel lingkungan seperti PATH tidak akan berubah.
+        Jadi, variabel lingkungan dan direktori kerja yang sedang aktif tetap sama seperti sebelumnya.
+        
+2. su - mahasiswa:
+
+        Perintah ini menggunakan opsi - yang dikenal sebagai login shell. Opsi ini melakukan login penuh sebagai user mahasiswa,
+        sehingga environment yang dimuat adalah environment milik mahasiswa secara lengkap.
+        Ini termasuk mengubah direktori kerja ke home directory user mahasiswa dan memuat variabel lingkungan seperti yang didefinisikan dalam shell milik mahasiswa.
+        Jadi, ini seperti memulai sesi baru sebagai user mahasiswa.
 2. Prompt String (PS) 
 a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan 
 parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell 

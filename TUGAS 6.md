@@ -129,7 +129,7 @@ sebagai berikut :
 
 c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke 
 background 
-![Screenshot](
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_11_14_36.png)
 
 d. Stop program background dengan utilitas kil 
 ![Screenshot](

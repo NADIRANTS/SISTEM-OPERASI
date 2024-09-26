@@ -35,11 +35,14 @@ b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu :
 /home/mahasiswa/.bashrc 
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_08_40_13.png)
 
-Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap 
-file tersebut, cantumkan instruksi echo, misalnya pada /home/ mahasiswa/.bash_profile : 
+Ganti nama /home/mahasiswa dengan nama anda sendiri. 
+Pada setiap file tersebut, cantumkan instruksi echo, misalnya pada /home/ mahasiswa/.bash_profile : 
+
 echo “Profile dari .bash_profile” 
+
 Lakukan hal yang sama untuk file lainnya, sesuaikan tampilan dengan nama file yang 
 bersangkutan. 
+
 c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit sebagai berikut: 
 $ su mahasiswa 
 $ exit 

@@ -23,6 +23,8 @@ echo “Profile dari /etc/profile”
 
 b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu : 
 /home/stD02001/.bash_profile 
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_08_11_42.png)
+
 /home/. stD02001/.bash_login 
 /home/mahasiswa/.profile 
 /home/mahasiswa/.bashrc 

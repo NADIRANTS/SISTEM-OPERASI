@@ -126,7 +126,7 @@ setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.
 
 b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di background 
 sebagai berikut : 
-![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/tree/main/File%20Tugas%206)
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_11_11_23.png)
 
 c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke 
 background 

@@ -77,7 +77,7 @@ export PS1
 b. Eksperimen hasil PS1 :
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_09_38_45.png)
 
-3. Logout 
+3.Logout 
 Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout 
 Echo “Terima kasih atas sesi yang diberikan”
 Sleep 5 
@@ -111,9 +111,7 @@ p3.sh
 echo “Program p3” 
 
 ps x
-![Screenshot](
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_09_53_51.png)
+
 b. Jalankan script tersebut sebagai berikut : 
-$ ./p1.sh ; ./p3.sh ; ./p2.sh 
-$ ./p1.sh & 
-$ ./p1.sh $ ./p2.sh & ./p3.sh & 
-$ ( ./p1.sh ; ./p3.sh ) &
+

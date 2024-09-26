@@ -82,3 +82,25 @@ Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum ekseku
 Echo “Terima kasih atas sesi yang diberikan”
 Sleep 5 
 clear
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_09_45_26.png)
+
+4. Bash script 
+a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing : 
+p1.sh 
+#! /bin/bash 
+echo “Program p1” 
+ls –l 
+p2.sh 
+#! /bin/bash 
+echo “Program p2” 
+who 
+p3.sh 
+#! /bin/bash 
+echo “Program p3” 
+ps x
+
+b. Jalankan script tersebut sebagai berikut : 
+$ ./p1.sh ; ./p3.sh ; ./p2.sh 
+$ ./p1.sh & 
+$ ./p1.sh $ ./p2.sh & ./p3.sh & 
+$ ( ./p1.sh ; ./p3.sh ) &

@@ -49,6 +49,9 @@ $ exit
 kemudian gunakan opsi – sebagai berikut : 
 $ su – mahasiswa 
 $ exit 
+
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_09_07_05.png)
+
 Jelaskan perbedaan kedua utilitas tersebut.
 
 1. su mahasiswa:

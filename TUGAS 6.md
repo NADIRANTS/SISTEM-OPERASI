@@ -26,9 +26,15 @@ b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu :
 /home/stD02001/.bash_profile 
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_08_11_42.png)
 
-/home/. stD02001/.bash_login 
+/home/. stD02001/.bash_login
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_08_14_23.png)
+
 /home/mahasiswa/.profile 
+![Screenshot](
+
 /home/mahasiswa/.bashrc 
+![Screenshot](
+
 Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap 
 file tersebut, cantumkan instruksi echo, misalnya pada /home/ mahasiswa/.bash_profile : 
 echo “Profile dari .bash_profile” 

@@ -133,7 +133,7 @@ background
 
 d. Stop program background dengan utilitas kil 
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_11_19_26.png)
-![Screenshot](
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_11_19_35.png)
 ![Screenshot](
 
 6.History 

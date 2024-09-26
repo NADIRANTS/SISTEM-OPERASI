@@ -115,3 +115,6 @@ ps x
 
 b. Jalankan script tersebut sebagai berikut : 
 
+5.Jobs 
+a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, 
+setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.

@@ -67,6 +67,7 @@ Perintah ini menjalankan su untuk beralih ke user mahasiswa. Saat menggunakan pe
 Perintah ini menggunakan opsi - yang dikenal sebagai login shell. Opsi ini melakukan login penuh sebagai user mahasiswa, sehingga environment yang dimuat adalah environment milik mahasiswa secara lengkap. Ini termasuk mengubah direktori kerja ke home directory user mahasiswa dan memuat variabel lingkungan seperti yang didefinisikan dalam shell milik mahasiswa. Jadi, ini seperti memulai sesi baru sebagai user mahasiswa.
    
 2.Prompt String (PS) 
+
 a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan  parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell
 
 PS1=‟> „ 

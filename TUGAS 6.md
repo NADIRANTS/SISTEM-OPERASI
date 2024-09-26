@@ -132,4 +132,17 @@ background
 d. Stop program background dengan utilitas kil 
 ![Screenshot](
 
+6. History 
+
+a. Ganti nilai HISTSIZE dari 1000 menjadi 20 
+
+b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir
+dilakukan 
+ 
+c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer 
+
+d. Ulangi instruksi pada history bufer nomor 150 
+
+e. Ulangi instruksi dengan prefix “ls” 
+
 

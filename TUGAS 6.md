@@ -66,7 +66,7 @@ Perintah ini menjalankan su untuk beralih ke user mahasiswa. Saat menggunakan pe
 
 Perintah ini menggunakan opsi - yang dikenal sebagai login shell. Opsi ini melakukan login penuh sebagai user mahasiswa, sehingga environment yang dimuat adalah environment milik mahasiswa secara lengkap. Ini termasuk mengubah direktori kerja ke home directory user mahasiswa dan memuat variabel lingkungan seperti yang didefinisikan dalam shell milik mahasiswa. Jadi, ini seperti memulai sesi baru sebagai user mahasiswa.
    
-Prompt String (PS) 
+2.Prompt String (PS) 
 a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan  parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell
 
 PS1=‟> „ 
@@ -75,4 +75,10 @@ export PS1
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_09_12_03.png)
 
 b. Eksperimen hasil PS1 :
-![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_09_38_45.png)
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_09_38_45.png
+
+3. Logout 
+Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout 
+Echo “Terima kasih atas sesi yang diberikan”
+Sleep 5 
+clear

@@ -116,8 +116,20 @@ ps x
 b. Jalankan script tersebut sebagai berikut : 
 
 5.Jobs 
+
 a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, 
 setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_10_20_57.png)
+
+b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di background 
+sebagai berikut : 
+![Screenshot](
+
+c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke 
+background 
+![Screenshot](
+
+d. Stop program background dengan utilitas kil 
+![Screenshot](
 
 

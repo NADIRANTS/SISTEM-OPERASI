@@ -146,7 +146,7 @@ dilakukan
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_11_34_32.png)
 
 c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer 
-![Screenshot](
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_11_35_11.png)
 
 d. Ulangi instruksi pada history bufer nomor 150 
 ![Screenshot](

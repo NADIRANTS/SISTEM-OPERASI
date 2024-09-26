@@ -19,7 +19,7 @@ Universitas Sriwijaya
 
 a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut : 
 echo “Profile dari /etc/profile”
-![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_07_38_43.png)
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_07_48_42.png)
 
 b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu : 
 /home/stD02001/.bash_profile 

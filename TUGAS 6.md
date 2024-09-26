@@ -94,6 +94,7 @@ p1.sh
 echo “Program p1” 
 
 ls –l 
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_09_51_37.png)
 
 p2.sh 
 
@@ -102,7 +103,7 @@ p2.sh
 echo “Program p2” 
 
 who 
-
+![Screenshot](
 p3.sh 
 
 #! /bin/bash 
@@ -110,7 +111,7 @@ p3.sh
 echo “Program p3” 
 
 ps x
-
+![Screenshot](
 b. Jalankan script tersebut sebagai berikut : 
 $ ./p1.sh ; ./p3.sh ; ./p2.sh 
 $ ./p1.sh & 

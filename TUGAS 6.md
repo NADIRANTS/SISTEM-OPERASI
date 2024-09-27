@@ -148,7 +148,7 @@ d. Stop program background dengan utilitas kil
 
 6.History
 a. Ganti nilai HISTSIZE dari 1000 menjadi 20 
-![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_22_37_32.png)
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_23_02_07.png)
 
 b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir
 dilakukan 

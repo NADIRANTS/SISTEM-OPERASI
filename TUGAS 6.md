@@ -117,7 +117,7 @@ ps x
 
 b. Jalankan script tersebut sebagai berikut : 
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_20_11_34.png)
-![Screenshot]()
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_20_11_55.png)
 ![Screenshot](
 ![Screenshot](
 ![Screenshot](

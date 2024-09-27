@@ -116,8 +116,11 @@ ps x
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_09_53_51.png)
 
 b. Jalankan script tersebut sebagai berikut : 
-![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_10_48_23.png)
-![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_10_53_13.png)
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_20_11_34.png)
+![Screenshot]()
+![Screenshot](
+![Screenshot](
+![Screenshot](
 
 5.Jobs 
 

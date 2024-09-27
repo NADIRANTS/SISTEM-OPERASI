@@ -123,7 +123,7 @@ b. Jalankan script tersebut sebagai berikut :
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_20_40_59.png)
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_20_41_17.png)
 ![Screenshot]
-![Screenshot]
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_20_41_50.png)
 ![Screenshot]
 
 5.Jobs 

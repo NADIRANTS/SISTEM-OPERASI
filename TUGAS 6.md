@@ -147,6 +147,7 @@ d. Stop program background dengan utilitas kil
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_22_16_09.png)
 
 6.History
+
 a. Ganti nilai HISTSIZE dari 1000 menjadi 20 
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_23_02_07.png)
 
@@ -158,7 +159,9 @@ c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_23_10_43.png)
 
 d. Ulangi instruksi pada history bufer nomor 150 
-![Screenshot](
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_23_21_55.png)
+dikarenakan history nomor 150 tidak ada jadi diganti dengan history nomor 
+
 e. Ulangi instruksi dengan prefix “ls” 
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_11_39_26.png)
 

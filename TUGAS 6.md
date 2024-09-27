@@ -152,10 +152,10 @@ a. Ganti nilai HISTSIZE dari 1000 menjadi 20
 
 b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir
 dilakukan 
-![Screenshot]()
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_27_09_2024_23_08_21.png)
 
 c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer 
-![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_11_35_11.png)
+![Screenshot](
 
 d. Ulangi instruksi pada history bufer nomor 150 
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%206/VirtualBox_NADIRA%20NATASYA_26_09_2024_11_37_31.png)

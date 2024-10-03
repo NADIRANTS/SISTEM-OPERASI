@@ -14,3 +14,22 @@ Universitas Sriwijaya
 
 
 ## Hasil Tugas
+
+1: Siapkan Ubuntu
+![Screenshot]( 
+
+2: Instal SSH di Ubuntu
+![Screenshot]( 
+
+3: Mulai SSH
+![Screenshot]( 
+
+4: Konfigurasikan firewall
+![Screenshot]( 
+
+5: Hubungkan ke server
+![Screenshot]( 
+
+6: Konfigurasi SSH
+![Screenshot]( 
+

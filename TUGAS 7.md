@@ -14,7 +14,9 @@ Universitas Sriwijaya
 
 
 ## Hasil Tugas
-MEMASANG DAN MENGONFIGURASI SSH DI UBUNTU
+
+# MEMASANG DAN MENGONFIGURASI SSH DI UBUNTU
+
 1: Siapkan Ubuntu
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%207/VirtualBox_NADIRA%20NATASYA_03_10_2024_09_52_31.png)
 

@@ -42,3 +42,7 @@ Universitas Sriwijaya
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%207/VirtualBox_NADIRA%20NATASYA_03_10_2024_10_52_41.png)
 
 2. Update setelah menambahkan repository
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%207/VirtualBox_NADIRA%20NATASYA_03_10_2024_11_00_37.png)
+
+3. Install PuTTY
+![Screenshot](

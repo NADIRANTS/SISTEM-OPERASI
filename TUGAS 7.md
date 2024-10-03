@@ -38,3 +38,5 @@ Universitas Sriwijaya
 # MENGINSTALL PUTTY
 
 1. Tambahkan Repository Universe
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%207/VirtualBox_NADIRA%20NATASYA_03_10_2024_10_56_34.png)
+![Screenshot](

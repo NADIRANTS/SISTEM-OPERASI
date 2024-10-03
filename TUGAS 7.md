@@ -35,3 +35,6 @@ Universitas Sriwijaya
 6: Konfigurasi SSH
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%207/VirtualBox_NADIRA%20NATASYA_03_10_2024_09_46_44.png)
 
+# MENGINSTALL PUTTY
+
+1. Tambahkan Repository Universe

@@ -49,4 +49,4 @@ Universitas Sriwijaya
 
 4. Menunjukan versi dari PuTTY dan melihat apakah PuTTY sudah terinstall
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%207/VirtualBox_NADIRA%20NATASYA_03_10_2024_11_12_39.png)
-![Screenshot](
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%207/VirtualBox_NADIRA%20NATASYA_03_10_2024_11_12_47.png)

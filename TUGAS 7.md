@@ -22,7 +22,7 @@ Universitas Sriwijaya
 ![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%207/VirtualBox_NADIRA%20NATASYA_03_10_2024_10_05_54.png)
 
 3: Mulai SSH
-![Screenshot](
+![Screenshot](https://github.com/NADIRANTS/SISTEM-OPERASI/blob/main/File%20Tugas%207/VirtualBox_NADIRA%20NATASYA_03_10_2024_10_13_23.png)
 
 4: Konfigurasikan firewall
 ![Screenshot]( 
